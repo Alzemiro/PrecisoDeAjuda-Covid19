@@ -1,0 +1,25 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Projeto BackEnd para a aplicação baseada na semana Omnistack",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alzemiro/PrecisoDeAjuda-Covid19.git"
+  },
+  "keywords": [
+    "covid19",
+    "ajuda",
+    "brasil",
+    "brazil"
+  ],
+  "author": "Alzemiro Iago de Moraes Thomaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alzemiro/PrecisoDeAjuda-Covid19/issues"
+  },
+  "homepage": "https://github.com/Alzemiro/PrecisoDeAjuda-Covid19#readme"
+}
